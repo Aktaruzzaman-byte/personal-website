@@ -1,0 +1,140 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   margin: 0px;
+   background-color: rgb(231, 220, 220);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+.section2{
+    height: 500px;
+   
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+    color: blueviolet;
+}
+p{
+    font-size: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(241, 76, 11),
+    rgb(180, 42, 17)
+    ) ;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+#position{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.colorfull{
+    color: teal;
+}
+.colorfull1{
+    color: rgb(59, 70, 69);
+}
+#take{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+.full-width{
+    width: 25%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 4%;
+    box-shadow: 10px 10px 10px teal;
+    border-radius: 5px;
+    height: 70%;
+    background-color: white;
+}
+}
+.change{
+    width: 50px;
+    height: 50px;
+}
+.section1{
+    background-color: thistle;
+    height: 800px;
+}
+.width{
+    width: 50%;
+    height: 50%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 20%;
+    margin-top: 4%;
+    box-shadow: 10px 10px 10px teal;
+    border-radius: 80px;
+    height: 70%;
+    background-image: url(images/Group_33094_1.png);
+    
+}
+.section3{
+    height: 500px;
+}
+.width1{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 4%;
+}
+#margin{
+    margin-top: 6%;
+}
+#padding{
+    margin-top: 13%;
+   margin-left: 105px;
+    
+}
+#modifi{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(241, 76, 11),
+    rgb(180, 42, 17));
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.hobby{
+    background-color: burlywood;
+    height: 800px;
+}
+.h1{
+    text-align: center;
+    color: rgb(75, 31, 235);
+}
+.ex-change{
+    width: 660px;
+    height: 400px;
+}
+.div{
+    padding-left: 2%;
+    margin-right: 5%;
+    margin-left: 5%;
+    float: left;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 70%;
+    width: 37%;
+    background-color: white;
+}
+.h2{
+    text-align: center;
+color: darkmagenta;
+}
